@@ -8,7 +8,7 @@ TF-IDF and topic modelling were used for text analysis.
 
 ## Prerequisites
 Run the following code to download the libraries used in the repo.
----
+```
 install.packages('ggplot2')
 install.pacakges('stringr') 
 install.packages('tidyverse')
@@ -17,5 +17,4 @@ install.packages('lubridate')
 install.packages('wordcloud2')
 install.packages('ldatuning')
 install.packages('topicmodels')
----
-
+```
