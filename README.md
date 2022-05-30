@@ -1,6 +1,6 @@
 # duterte-news-analysis
 
-PSYC 80.18i (Data Analytics for Text Analysis) project. Contains R code for text analysis of English Facebook news posts about former Philippine President Rodrigo Duterte from 2016 to 2020. TF-IDF analysis and topic modelling were used for text analysis.
+PSYC 80.18i (Data Analytics for Text Analysis) project. Contains R code for text analysis of English Facebook news posts about former Philippine President Rodrigo Duterte from 2016 to 2020. TF-IDF analysis and topic modelling (using Latent Dirichlet Allocation) were used for text analysis.
 
 The *datasets* folder contains all Facebook posts from eight Filipino news outlets scraped using Facepager.
 
